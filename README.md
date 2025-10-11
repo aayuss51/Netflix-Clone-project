@@ -3,3 +3,5 @@ A comprehensive Netflix clone that captures the authentic streaming platform exp
 
 Copyright ©2025 Aayush Sapkota All Rights Reserved 
 Here is a Free Demo of My Netflix Clone : https://netflix-clone-sepia-rho-90.vercel.app
+
+Created For Fun !
