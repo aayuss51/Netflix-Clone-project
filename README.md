@@ -1,7 +1,8 @@
 # Netflix-Clone
-A comprehensive Netflix clone that captures the authentic streaming platform experience with modern React architecture and beautiful design. The application features a complete user interface with smooth animations, responsive design, and production-ready code organization across multiple focused components.
 
-Copyright ©2025 Aayush Sapkota All Rights Reserved 
-Here is a Free Demo of My Netflix Clone : https://netflix-clone-sepia-rho-90.vercel.app
+Maile Yo project Time pass ma banako ho la 
 
-Created For Fun !
+
+hera yo Link bata dami xa  : https://netflix-clone-sepia-rho-90.vercel.app
+
+
